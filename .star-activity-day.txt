@@ -1,1 +1,2 @@
 activity-day:20779 claimed bitcoin/bitcoin a4c82c034503
+activity-day:20779 done bitcoin/bitcoin ee30ed1371b7
